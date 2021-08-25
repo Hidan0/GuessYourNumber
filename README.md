@@ -21,7 +21,7 @@ there are 6 tables, each one contains a specific set of numbers that in binary f
 
 ## Configuration
 
-For the correct use of the game, you must set the Tick Frequency (Clock) to 256Hz.
+For the correct use of the game, you must set the Tick Frequency (Clock) to 256Hz and zoom to 200%.
 
 ## How to play
 
