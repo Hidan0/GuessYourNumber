@@ -17,11 +17,11 @@ there are 6 tables, each one contains a specific set of numbers that in binary f
 - **7SegDriver**: this circuit it is used to handle the 7 Segment Driver;
 - **BinToBCD**: Binary To Binary-Coded Decimal converter; as I need two 7 Seg. displays to display a 2 digit decimal number, I have to convert my 6-bit number in two 4-bit digits (ex. 12 [001100] -> 0001 [1], 0010 [2]);
 - **Display**: another wrapping component, this one combines the *BinToBCD* and 2 *7SegDrivers* to show the final number on the double 7 Segment Display;
-- **Thinker**: this componenet is the one that does the trick! When you press 'yes' or 'no' it stores the correct bit and then it shifts it to the right position during the process.
+- **Thinker**: this component is the one that does the trick! When you press 'yes' or 'no' it stores the correct bit and then it shifts it to the right position during the process.
 
 ## Configuration
 
-For the correct use of the game, you must set the Tick Frequency (Clock) to 256Hz and zoom to 200%.
+For the correct use of the game, you must set the Tick Frequency (Clock) to 128Hz-256Hz and zoom to 200%.
 
 ## How to play
 
