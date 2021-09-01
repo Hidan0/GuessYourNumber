@@ -2,7 +2,7 @@
 
 Questo progetto logisim consiste nell'implementazione di una macchina in grado di indovinare numeri.  
 
-Scegli un numero da 1 a 63, dopo di chè rispondi alle 6 domande che ti vengono poste e infine la macchina ti mostrerà a schermo il numero che hai pensato.
+Scegli un numero da 1 a 63, dopo di che rispondi alle 6 domande che ti vengono poste e infine la macchina ti mostrerà a schermo il numero che hai pensato.
 Le "domande" sono fondamentalmente 6 tabelle che contengono un insieme di numeri: se vedi il tuo numero, seleziona 'Y', altrimenti 'N'. Dopo aver risposto a tutte le domande, la tua scelta verrà visualizzara su un doppio 7 Segment Display!
 
 ## Come funziona
